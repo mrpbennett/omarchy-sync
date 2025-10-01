@@ -1,6 +1,8 @@
 # 🔄 omarchy-sync
 
-A seamless configuration synchronization tool for Omarchy (Arch + Hyprland) systems. Keep your dotfiles in sync across multiple machines with an elegant CLI interface.
+# ⚠️ this is just an idea ... mainly to learn go... might look at making this a real thing one day 
+
+A seamless configuration synchronization tool for Omarchy (Arch + Hyprland) systems. Keep your dotfiles in sync across multiple machines with an elegant CLI interface. Similar to the way VSC or Jetbrain products keep application settings in sync across multiple machines.
 
 ## 🎯 Project Vision
 
